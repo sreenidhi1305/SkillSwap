@@ -1,4 +1,3 @@
-SkillSwap – Peer Skill Matching & Chat Platform
 SkillSwap is a full-stack web application that connects individuals for skill exchange. Users can list skills they possess and skills they wish to acquire, get matched with compatible peers, and communicate in real-time to facilitate skill-sharing.
 
 ✨ Key Features
